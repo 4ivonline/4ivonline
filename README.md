@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**4ivonline/4ivonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chistyakov.vyach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
